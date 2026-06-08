@@ -57,16 +57,16 @@ Django REST Framework, Chart.js
 ## Connect with me
 
 <p>
-<a href="https://www.linkedin.com/in/samin-s/">
+<a href="https://www.linkedin.com/in/samin-developer/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:saminsarfaraz949@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/samin949/">
+<a href="https://www.facebook.com/samin.developer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/samin.s949?igsh=YzljYTk1ODg3Zg==">
+<a href="https://www.instagram.com/samin.developer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
